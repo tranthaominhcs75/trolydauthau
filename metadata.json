@@ -1,0 +1,6 @@
+{
+  "name": "Trợ lý ảo Chuyên gia Đấu thầu",
+  "description": "Hệ thống luyện thi chứng chỉ nghiệp vụ đấu thầu và trợ lý pháp chế chuyên sâu theo Luật Đấu thầu 22/2023/QH15, Luật sửa đổi 57/2024 & 90/2025, Nghị định 214/2025, 349/2026.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
